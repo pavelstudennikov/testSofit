@@ -1,0 +1,1 @@
+export { ImagesComp } from './Image';
